@@ -3,17 +3,10 @@
 <br>
 
 <div>
-  <a href="URL_CORAL"><img src="images/coralyoshinaga.png" height="90"></a>
-  &nbsp;&nbsp;
-  <a href="URL_KAMATA"><img src="images/kamataorchestra.png" height="90"></a>
-</div>
-
-<br>
-
-<div>
-  <a href="URL_VBIS"><img src="images/v-bis.png" height="110"></a>
-  &nbsp;&nbsp;
-  <a href="URL_SOCHO"><img src="images/socho-notebook.png" height="110"></a>
+  <a href="https://cy-cy.jp/"><img src="images/coralyoshinaga.png" height="90"></a>
+  <a href="https://kamataorchestra.pepper.jp/"><img src="images/kamataorchestra.png" height="90"></a>
+  <a href="https://v-bis.pages.dev/"><img src="images/v-bis.png" height="110"></a>
+  <a href="https://socho-notebook.pages.dev/"><img src="images/socho-notebook.png" height="110"></a>
 </div>
 
 <br><br>
@@ -27,7 +20,6 @@
 
 <img src="https://img.shields.io/badge/KamataOrchestra-4A90D9?style=flat-square&logoColor=white"> — 温泉サークル作曲部による旅行記
 <img src="https://img.shields.io/badge/v--BiS-7B68C8?style=flat-square&logoColor=white"> — 3期BiSの記録
-
 <img src="https://img.shields.io/badge/Socho Notebook!-5BAD8F?style=flat-square&logoColor=white"> — 青春マスロック集団 早朝ノートブック！の公式サイト
 
 ---
