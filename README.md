@@ -57,8 +57,11 @@
   <a href="https://youtube.com/playlist?list=PLm8Oh22BrJEa6WvLnhdt3sZKiuDkldvUg&si=m4RA0YRCrFlGdz8W"><img src="https://img.shields.io/badge/▶ Vlog 🎬-FF0000?style=flat-square&logoColor=white"></a>
   &nbsp;
   <a href="https://youtube.com/playlist?list=PLm8Oh22BrJEbx0wb7BYu7LpoS69uKzEyf&si=a-wZ3hC34TJI-x4z"><img src="https://img.shields.io/badge/▶ Bass🍍-FF0000?style=flat-square&logoColor=white"></a>
+  &nbsp;
   <a href="https://youtube.com/playlist?list=PLm8Oh22BrJEZQaMoZ4l-7xqclVHsboyme&si=dPvxpFO9mw7akpLH"><img src="https://img.shields.io/badge/▶ Pickstyle Guitar🏄‍♂️-FF0000?style=flat-square&logoColor=white"></a>
+  &nbsp;
   <a href="https://youtube.com/playlist?list=PLm8Oh22BrJEaDOYHVkuHY8uHhPnEXHXZW&si=0KCMbGdHk1xMsbgp"><img src="https://img.shields.io/badge/▶ Fingerstyle Guitar🫰-FF0000?style=flat-square&logoColor=white"></a>
+  &nbsp;
   <a href="https://youtube.com/playlist?list=PLm8Oh22BrJEbehnxyiUuvn5AqRSmrlp_S&si=arN9fSXzCSxPRYMq"><img src="https://img.shields.io/badge/▶ 早朝ノートブック！🍳-FF0000?style=flat-square&logoColor=white"></a>
 </div>
 
