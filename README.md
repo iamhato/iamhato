@@ -8,14 +8,14 @@ Building spaces for inspiration and creativity.
 
 <table border="0">
   <tr>
-    <td width="50%" valign="top" style="text-align: center; padding: 20px;">
+    <td width="50%" valign="top">
       <a href="URL_CORAL">
         <img src="images/coralyoshinaga.png" alt="Coral Yoshinaga" height="100">
       </a>
       <p align="center"><strong>Coral Yoshinaga</strong><br>
       Dummy text: A media site focusing on art and lifestyle visuals.</p>
     </td>
-    <td width="50%" valign="top" style="text-align: center; padding: 20px;">
+    <td width="50%" valign="top">
       <a href="URL_KAMATA">
         <img src="images/kamataorchestra.png" alt="KamataOrchestra" height="100">
       </a>
@@ -24,14 +24,14 @@ Building spaces for inspiration and creativity.
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" style="text-align: center; padding: 20px;">
+    <td width="50%" valign="top">
       <a href="URL_VBIS">
         <img src="images/v-bis.png" alt="v-BiS" height="100">
       </a>
       <p align="center"><strong>v-BiS</strong><br>
       Dummy text: A curated gallery site for visual inspiration.</p>
     </td>
-    <td width="50%" valign="top" style="text-align: center; padding: 20px;">
+    <td width="50%" valign="top">
       <a href="URL_SOCHO">
         <img src="images/socho-notebook.png" alt="Socho Notebook!" height="100">
       </a>
