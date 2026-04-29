@@ -1,71 +1,77 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [Your Name]! 👋
 *Designer & Creator exploring the intersection of visual and sound.*
 
 ---
 
 ## 🌐 Managed Media & Platforms
-Building spaces for inspiration and creativity through different lenses.
+Building spaces for inspiration and creativity.
 
-<p align="center">
-  <a href="URL_CORAL">
-    <img src="images/coralyoshinaga.png" height="80" style="margin: 15px;" alt="Coral Yoshinaga">
-  </a>
-  <a href="URL_KAMATA">
-    <img src="images/kamataorchestra.png" height="80" style="margin: 15px;" alt="KamataOrchestra">
-  </a>
-  <br>
-  <a href="URL_VBIS">
-    <img src="images/v-bis.png" height="80" style="margin: 15px;" alt="v-BiS">
-  </a>
-  <a href="URL_SOCHO">
-    <img src="images/socho-notebook.png" height="80" style="margin: 15px;" alt="Socho Notebook!">
-  </a>
-</p>
-
-<p align="center">
-  <strong>Coral Yoshinaga</strong> — Media site for art & visuals &nbsp; | &nbsp; 
-  <strong>KamataOrchestra</strong> — Sound & Culture exploration<br>
-  <strong>v-BiS</strong> — Curated visual gallery &nbsp; | &nbsp; 
-  <strong>Socho Notebook!</strong> — Official band project
-</p>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="400" valign="top" style="border: none; padding-bottom: 40px;">
+      <a href="URL_CORAL"><img src="images/coralyoshinaga.png" height="70"></a><br>
+      <br><strong>Coral Yoshinaga</strong><br>
+      <small>A media site focusing on art and lifestyle visuals.</small>
+    </td>
+    <td width="400" valign="top" style="border: none; padding-bottom: 40px;">
+      <a href="URL_KAMATA"><img src="images/kamataorchestra.png" height="70"></a><br>
+      <br><strong>KamataOrchestra</strong><br>
+      <small>Exploring the intersection of local culture and sound.</small>
+    </td>
+  </tr>
+  <tr>
+    <td width="400" valign="top" style="border: none;">
+      <a href="URL_VBIS"><img src="images/v-bis.png" height="70"></a><br>
+      <br><strong>v-BiS</strong><br>
+      <small>A curated gallery site for visual inspiration.</small>
+    </td>
+    <td width="400" valign="top" style="border: none;">
+      <a href="URL_SOCHO"><img src="images/socho-notebook.png" height="70"></a><br>
+      <br><strong>Socho Notebook!</strong><br>
+      <small>Official website for my band project.</small>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎸 Creative Archive
-Beyond the terminal, I believe in the power of visual and auditory storytelling.
+## 🎸 Creative Hub
 
-<p align="center">
-  <a href="YOUR_YOUTUBE_URL">
-    <img src="images/youtube.png" height="45" alt="YouTube">
-  </a>
-  <br>
-  <strong>Visual & Sound Journal</strong><br>
-  <small>Vlogs / Band MV / Guitar Sessions</small>
-</p>
-
-<p align="center">
-  <kbd>Ryukyuan Scales</kbd> &nbsp; 
-  <kbd><b>FACGCE</b> Tuning</kbd> &nbsp; 
-  <kbd>Guitar Improvisation</kbd>
-</p>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="400" valign="top" style="border: none;">
+      <a href="YOUR_YOUTUBE_URL">
+        <img src="images/youtube.png" height="50">
+      </a>
+      <br><br>
+      <strong>YouTube Channel 🎥</strong><br>
+      <small>Vlogs, Band MV, and Guitar Sessions.</small>
+    </td>
+    <td width="400" valign="top" style="border: none;">
+      <br>
+      <strong>Sound Identity</strong><br>
+      <small>Exploring the resonance of Ryukyuan scales.</small>
+      <br><br>
+      <kbd>FACGCE Tuning</kbd> &nbsp; <kbd>Improvisation</kbd>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 Coding Vibe
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourID]&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7" width="400">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourID]&layout=compact&theme=tokyonight&hide_border=true" width="400">
 </p>
 
 ---
 
 <p align="center">
   <a href="mailto:your-email">
-    <img src="https://img.shields.io/badge/Contact-Grey?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Contact-Grey?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
   &nbsp;
   <a href="INSTAGRAM_URL">
-    <img src="https://img.shields.io/badge/Instagram-Grey?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-Grey?style=flat&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
-
-<p align="center"><em>Let's create something beautiful together.</em></p>
