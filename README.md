@@ -8,12 +8,12 @@ Building spaces for inspiration and creativity.
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="400" valign="top" style="border: none; padding: 100px;">
+    <td width="400" valign="top" style="border: none;">
       <a href="URL_CORAL"><img src="images/coralyoshinaga.png" height="70"></a><br>
       <br><strong>Coral Yoshinaga</strong><br>
       <small>A media site focusing on art and lifestyle visuals.</small>
     </td>
-    <td width="400" valign="top" style="border: none; padding: 100px;">
+    <td width="400" valign="top" style="border: none;">
       <a href="URL_KAMATA"><img src="images/kamataorchestra.png" height="70"></a><br>
       <br><strong>KamataOrchestra</strong><br>
       <small>Exploring the intersection of local culture and sound.</small>
@@ -21,12 +21,12 @@ Building spaces for inspiration and creativity.
   </tr>
   <tr>
     <td width="400" valign="top" style="border: none;">
-      <a href="URL_VBIS"><img src="images/v-bis.png" height=100"></a><br>
+      <a href="URL_VBIS"><img src="images/v-bis.png" height=70"></a><br>
       <br><strong>v-BiS</strong><br>
       <small>A curated gallery site for visual inspiration.</small>
     </td>
     <td width="400" valign="top" style="border: none;">
-      <a href="URL_SOCHO"><img src="images/socho-notebook.png" height="100"></a><br>
+      <a href="URL_SOCHO"><img src="images/socho-notebook.png" height="70"></a><br>
       <br><strong>Socho Notebook!</strong><br>
       <small>Official website for my band project.</small>
     </td>
