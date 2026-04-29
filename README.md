@@ -48,7 +48,7 @@ Everything else I create, from motion to music.
 
 <p align="center">
   <a href="YOUR_YOUTUBE_URL">
-    <img src="images/youtube-icon.png" alt="YouTube" width="50">
+    <img src="images/youtube.png" alt="YouTube" width="50">
   </a>
   <br>
   <strong>YouTube Channel</strong><br>
