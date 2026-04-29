@@ -22,7 +22,7 @@
 
 ### 📑 Project Index
 
-![Static Badge](https://img.shields.io/badge/Coral%20Yoshinaga?style=for-the-badge&logo=https%3A%2F%2Fgithub.com%2Fiamhato%2Fiamhato%2Fblob%2Fmain%2Fimages%2Fcoralyoshinaga.png)
+<a href="https://cy-cy.jp/">Coral Yoshinaga
  — 奄美・沖縄へと向かった男たちの物語
 
 <img src="https://img.shields.io/badge/KamataOrchestra-4A90D9?style=flat-square&logoColor=white"> — 温泉サークル作曲部による旅行記
