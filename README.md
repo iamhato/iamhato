@@ -22,7 +22,8 @@
 
 ### 📑 Project Index
 
-<img src="https://img.shields.io/badge/Coral Yoshinaga-E8907A?style=flat-square&logoColor=white"> — A media site focusing on art and lifestyle visuals.
+<img src="![Static Badge](https://img.shields.io/badge/Coral%20Yoshinaga?style=for-the-badge&logo=https%3A%2F%2Fgithub.com%2Fiamhato%2Fiamhato%2Fblob%2Fmain%2Fimages%2Fcoralyoshinaga.png)
+"> — A media site focusing on art and lifestyle visuals.
 
 <img src="https://img.shields.io/badge/KamataOrchestra-4A90D9?style=flat-square&logoColor=white"> — Exploring the intersection of local culture and sound.
 
