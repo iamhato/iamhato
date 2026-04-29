@@ -30,13 +30,12 @@
 
 ### 📑 Project Index
 
-<a href="https://cy-cy.jp/"><img src="images/coralyoshinaga.png" height="24"></a> &nbsp; <a href="https://cy-cy.jp/"><img src="https://img.shields.io/badge/Coral Yoshinaga-E8907A?style=flat-square&logoColor=white"></a> &nbsp; 奄美・沖縄へと向かった男たちの物語
+<a href="https://cy-cy.jp/"><img src="images/coralyoshinaga.png" height="24"></a> &nbsp; <a href="https://cy-cy.jp/">Coral Yoshinaga</a> &nbsp; 奄美・沖縄へと向かった男たちの物語
 
-<a href="https://kamataorchestra.pepper.jp/"><img src="images/kamataorchestra.png" height="24"></a> &nbsp; <a href="https://kamataorchestra.pepper.jp/"><img src="https://img.shields.io/badge/KamataOrchestra-4A90D9?style=flat-square&logoColor=white"></a> &nbsp; 温泉サークル作曲部による旅行記
+<a href="https://kamataorchestra.pepper.jp/"><img src="images/kamataorchestra.png" height="24"></a> &nbsp; <a href="https://kamataorchestra.pepper.jp/">KamataOrchestra</a> &nbsp; 温泉サークル作曲部による旅行記
 
-<a href="https://v-bis.pages.dev/"><img src="images/v-bis.png" height="24"></a> &nbsp; <a href="https://v-bis.pages.dev/"><img src="https://img.shields.io/badge/v--BiS-7B68C8?style=flat-square&logoColor=white"></a> &nbsp; 3期BiSの記録
-
-<a href="https://socho-notebook.pages.dev/"><img src="images/socho-notebook.png" height="24"></a> &nbsp; <a href="https://socho-notebook.pages.dev/"><img src="https://img.shields.io/badge/Socho Notebook!-5BAD8F?style=flat-square&logoColor=white"></a> &nbsp; 青春マスロック集団 早朝ノートブック！の公式サイト
+<a href="https://v-bis.pages.dev/"><img src="images/v-bis.png" height="24"></a> &nbsp; <a href="https://v-bis.pages.dev/">v-BiS</a> &nbsp; 3期BiSの記録
+<a href="https://socho-notebook.pages.dev/"><img src="images/socho-notebook.png" height="24"></a> &nbsp; <a href="https://socho-notebook.pages.dev/">早朝ノートブック！</a> &nbsp; 青春マスロック集団 早朝ノートブック！の公式サイト
 
 ---
 
