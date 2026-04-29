@@ -6,45 +6,57 @@ A designer crafting digital experiences through web, music, and visuals.
 ## 🌐 Managed Media & Platforms
 Building spaces for inspiration and creativity.
 
-<table border="0" cellspacing="20" cellpadding="0">
+<table border="0" cellspacing="10" cellpadding="0">
   <tr>
-    <td width="400" valign="top" style="border: none;">
-      <blockquote>
-        <p align="center">
-          <a href="URL_CORAL"><img src="images/coralyoshinaga.png" height="70"></a><br>
+    <td width="400" style="border: none;">
+      <a href="URL_CORAL">
+        <kbd>
+          <br>
+          <img src="images/coralyoshinaga.png" height="70">
+          <br><br>
           <strong>Coral Yoshinaga</strong><br>
           <small>A media site focusing on art and lifestyle visuals.</small>
-        </p>
-      </blockquote>
+          <br><br>
+        </kbd>
+      </a>
     </td>
-    <td width="400" valign="top" style="border: none;">
-      <blockquote>
-        <p align="center">
-          <a href="URL_KAMATA"><img src="images/kamataorchestra.png" height="70"></a><br>
+    <td width="400" style="border: none;">
+      <a href="URL_KAMATA">
+        <kbd>
+          <br>
+          <img src="images/kamataorchestra.png" height="70">
+          <br><br>
           <strong>KamataOrchestra</strong><br>
           <small>Exploring the intersection of local culture and sound.</small>
-        </p>
-      </blockquote>
+          <br><br>
+        </kbd>
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="400" valign="top" style="border: none;">
-      <blockquote>
-        <p align="center">
-          <a href="URL_VBIS"><img src="images/v-bis.png" height="70"></a><br>
+    <td width="400" style="border: none;">
+      <a href="URL_VBIS">
+        <kbd>
+          <br>
+          <img src="images/v-bis.png" height="70">
+          <br><br>
           <strong>v-BiS</strong><br>
           <small>A curated gallery site for visual inspiration.</small>
-        </p>
-      </blockquote>
+          <br><br>
+        </kbd>
+      </a>
     </td>
-    <td width="400" valign="top" style="border: none;">
-      <blockquote>
-        <p align="center">
-          <a href="URL_SOCHO"><img src="images/socho-notebook.png" height="70"></a><br>
+    <td width="400" style="border: none;">
+      <a href="URL_SOCHO">
+        <kbd>
+          <br>
+          <img src="images/socho-notebook.png" height="70">
+          <br><br>
           <strong>Socho Notebook!</strong><br>
           <small>Official website for my band project.</small>
-        </p>
-      </blockquote>
+          <br><br>
+        </kbd>
+      </a>
     </td>
   </tr>
 </table>
@@ -53,23 +65,24 @@ Building spaces for inspiration and creativity.
 
 ## 🎸 Creative Hub
 
-<table border="0" cellspacing="0" cellpadding="10">
-  <tr>
-    <td width="120" align="center" style="border: none;">
-      <a href="YOUR_YOUTUBE_URL">
-        <img src="images/youtube.png" alt="YouTube" height="80">
-      </a>
-    </td>
-    <td style="border: none;">
-      <h3>YouTube Channel 🎥</h3>
-      <p>
-        <kbd>Vlogs</kbd> &nbsp; <kbd>Band MV</kbd> &nbsp; <kbd>Guitar Sessions</kbd><br>
-        <small>Comprehensive creative archive: from Coral Yoshinaga's daily life to Socho Notebook's sounds.</small>
-      </p>
-      <code>Current Exploration: Ryukyuan Scales & FACGCE Tuning</code>
-    </td>
-  </tr>
-</table>
+<a href="YOUR_YOUTUBE_URL">
+  <kbd>
+    <table border="0" cellpadding="20">
+      <tr>
+        <td width="120" align="center" style="border: none;">
+          <img src="images/youtube.png" alt="YouTube" height="70">
+        </td>
+        <td style="border: none;" align="left">
+          <h3 style="margin:0;">YouTube Channel 🎥</h3>
+          <p>
+            <small>Vlogs, Band MV, and Guitar Sessions.</small><br>
+            <code>Ryukyuan Scales & FACGCE Tuning</code>
+          </p>
+        </td>
+      </tr>
+    </table>
+  </kbd>
+</a>
 
 ---
 
