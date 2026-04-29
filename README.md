@@ -1,35 +1,22 @@
 # Project
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center" width="350" height="250" style="border: none;">
-        <a href="URL_CORAL">
-          <img src="images/coralyoshinaga.png" height="100">
-        </a>
-      </td>
-      <td width="50" style="border: none;"></td>
-      <td align="center" width="350" height="250" style="border: none;">
-        <a href="URL_KAMATA">
-          <img src="images/kamataorchestra.png" height="100">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="350" height="250" style="border: none;">
-        <a href="URL_VBIS">
-          <img src="images/v-bis.png" height="120">
-        </a>
-      </td>
-      <td width="50" style="border: none;"></td>
-      <td align="center" width="350" height="250" style="border: none;">
-        <a href="URL_SOCHO">
-          <img src="images/socho-notebook.png" height="120">
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="URL_CORAL">
+    <img src="images/coralyoshinaga.png" height="100">
+  </a>
+  <img src="https://via.placeholder.com/100x1/00000000.png?text=+" width="100" height="1">
+  <a href="URL_KAMATA">
+    <img src="images/kamataorchestra.png" height="100">
+  </a>
+  
+  <br><br><br><br> <a href="URL_VBIS">
+    <img src="images/v-bis.png" height="120">
+  </a>
+  <img src="https://via.placeholder.com/80x1/00000000.png?text=+" width="80" height="1">
+  <a href="URL_SOCHO">
+    <img src="images/socho-notebook.png" height="120">
+  </a>
+</p>
 
 ---
 
