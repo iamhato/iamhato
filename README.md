@@ -22,7 +22,7 @@
 
 ### 📑 Project Index
 
-<a href="https://cy-cy.jp/">Coral Yoshinaga
+<a href="https://cy-cy.jp/">Coral Yoshinaga</a>
  — 奄美・沖縄へと向かった男たちの物語
 
 <img src="https://img.shields.io/badge/KamataOrchestra-4A90D9?style=flat-square&logoColor=white"> — 温泉サークル作曲部による旅行記
