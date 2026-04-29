@@ -1,4 +1,4 @@
-# Creative Works by [Your Name] 👋
+# Project
 
 <p align="center">
   <a href="URL_CORAL"><img src="images/coralyoshinaga.png" height="100" style="margin: 30px;"></a>
