@@ -4,7 +4,6 @@
 
 <div align="center">
   <a href="URL_CORAL"><img src="images/coralyoshinaga.png" height="90"></a>
-  <img width="60" src="https://raw.githubusercontent.com/nicehash/NiceHashQuickMiner/master/icons/transparent.png">
   <a href="URL_KAMATA"><img src="images/kamataorchestra.png" height="90"></a>
 </div>
 
@@ -12,7 +11,6 @@
 
 <div align="center">
   <a href="URL_VBIS"><img src="images/v-bis.png" height="110"></a>
-  <img width="60" src="https://raw.githubusercontent.com/nicehash/NiceHashQuickMiner/master/icons/transparent.png">
   <a href="URL_SOCHO"><img src="images/socho-notebook.png" height="110"></a>
 </div>
 
