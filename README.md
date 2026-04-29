@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="40">
+<table table border="0" cellspacing="0" cellpadding="40" frame="void" rules="none">
   <tr>
     <td align="center">
       <a href="URL_CORAL">
