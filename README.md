@@ -1,4 +1,4 @@
-# Creative Works by [Your Name] 👋
+# 👋Haisai.
 
 <br>
 
@@ -23,13 +23,12 @@
 ### 📑 Project Index
 
 ![Static Badge](https://img.shields.io/badge/Coral%20Yoshinaga?style=for-the-badge&logo=https%3A%2F%2Fgithub.com%2Fiamhato%2Fiamhato%2Fblob%2Fmain%2Fimages%2Fcoralyoshinaga.png)
- — A media site focusing on art and lifestyle visuals.
+ — 奄美・沖縄へと向かった男たちの物語
 
-<img src="https://img.shields.io/badge/KamataOrchestra-4A90D9?style=flat-square&logoColor=white"> — Exploring the intersection of local culture and sound.
+<img src="https://img.shields.io/badge/KamataOrchestra-4A90D9?style=flat-square&logoColor=white"> — 温泉サークル作曲部による旅行記
+<img src="https://img.shields.io/badge/v--BiS-7B68C8?style=flat-square&logoColor=white"> — 3期BiSの記録
 
-<img src="https://img.shields.io/badge/v--BiS-7B68C8?style=flat-square&logoColor=white"> — A curated gallery site for visual inspiration.
-
-<img src="https://img.shields.io/badge/Socho Notebook!-5BAD8F?style=flat-square&logoColor=white"> — Official website for my band project.
+<img src="https://img.shields.io/badge/Socho Notebook!-5BAD8F?style=flat-square&logoColor=white"> — 青春マスロック集団 早朝ノートブック！の公式サイト
 
 ---
 
