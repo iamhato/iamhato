@@ -18,12 +18,12 @@
   <tr>
     <td align="center">
       <a href="URL_VBIS">
-        <img src="images/v-bis.png" height="120">
+        <img src="images/v-bis.png" height="130">
       </a>
     </td>
     <td align="center">
       <a href="URL_SOCHO">
-        <img src="images/socho-notebook.png" height="120">
+        <img src="images/socho-notebook.png" height="130">
       </a>
     </td>
   </tr>
