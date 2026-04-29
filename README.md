@@ -1,23 +1,23 @@
-# [Your Name] ✌️
-Design / Code / Sound
+# Creative Works by [Your Name] 👋
+
+<p align="center">
+  <a href="URL_CORAL"><img src="images/coralyoshinaga.png" height="100" style="margin: 10px;"></a>
+  <a href="URL_KAMATA"><img src="images/kamataorchestra.png" height="100" style="margin: 10px;"></a>
+  <br>
+  <a href="URL_VBIS"><img src="images/v-bis.png" height="100" style="margin: 10px;"></a>
+  <a href="URL_SOCHO"><img src="images/socho-notebook.png" height="100" style="margin: 10px;"></a>
+</p>
 
 ---
 
-## 🌐 Project Catalog
-<img src="images/coralyoshinaga.png" height="20" align="left"> **[Coral Yoshinaga](URL)** — A media site focusing on art and lifestyle visuals.
-<br><br>
-<img src="images/kamataorchestra.png" height="20" align="left"> **[KamataOrchestra](URL)** — Exploring the intersection of local culture and sound.
-<br><br>
-<img src="images/v-bis.png" height="20" align="left"> **[v-BiS](URL)** — A curated gallery site for visual inspiration.
-<br><br>
-<img src="images/socho-notebook.png" height="20" align="left"> **[Socho Notebook!](URL)** — Official website for my band project.
+<p align="center">
+  <strong>🎸 Sound Exploration</strong><br>
+  Ryukyuan Scales | FACGCE Tuning | <a href="YOUR_YOUTUBE_URL">YouTube</a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourID]&layout=compact&theme=radical&hide_border=true" width="400">
+</p>
 
 ---
-
-## 🎥 Creative Archive
-[<img src="images/youtube.png" height="40">](YOUR_YOUTUBE_URL)
-**Visual & Sound Journal**
-Vlogs, Band MV, and Guitar Sessions. Focused on Ryukyuan scales & technical tunings.
-
----
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourID]&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center"><em>Let's create something beautiful.</em></p>
