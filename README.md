@@ -33,21 +33,34 @@
 
 ---
 
+---
+
 ### 📺 YouTube
 
 <br>
 
-<div>
+<div align="center">
   <a href="YOUR_YOUTUBE_URL">
-    <img src="images/youtube.png" height="80" align="left">
+    <img src="images/youtube.png" height="120">
   </a>
-  <div>
-    &nbsp;&nbsp;<strong>チャンネル名</strong><br>
-    &nbsp;&nbsp;チャンネルの説明文をここに書く。<br>
-    &nbsp;&nbsp;<br>
-    &nbsp;&nbsp;🎵 <a href="PLAYLIST_URL_1">プレイリスト名1</a><br>
-    &nbsp;&nbsp;🎬 <a href="PLAYLIST_URL_2">プレイリスト名2</a>
-  </div>
+</div>
+
+<br>
+
+<div align="center">
+  <strong>チャンネル名</strong>
+</div>
+
+<div align="center">
+  チャンネルの説明文をここに書く。
+</div>
+
+<br>
+
+<div align="center">
+  <a href="PLAYLIST_URL_1"><img src="https://img.shields.io/badge/▶ プレイリスト名1-FF0000?style=flat-square&logoColor=white"></a>
+  &nbsp;
+  <a href="PLAYLIST_URL_2"><img src="https://img.shields.io/badge/▶ プレイリスト名2-FF0000?style=flat-square&logoColor=white"></a>
 </div>
 
 <br><br>
