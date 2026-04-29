@@ -3,25 +3,26 @@
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td align="center" width="300" style="border: none;">
+      <td align="center" width="350" height="250" style="border: none;">
         <a href="URL_CORAL">
           <img src="images/coralyoshinaga.png" height="100">
         </a>
       </td>
-      <td align="center" width="300" style="border: none;">
+      <td width="50" style="border: none;"></td>
+      <td align="center" width="350" height="250" style="border: none;">
         <a href="URL_KAMATA">
           <img src="images/kamataorchestra.png" height="100">
         </a>
       </td>
     </tr>
-    <tr height="60"></tr>
     <tr>
-      <td align="center" width="300" style="border: none;">
+      <td align="center" width="350" height="250" style="border: none;">
         <a href="URL_VBIS">
           <img src="images/v-bis.png" height="120">
         </a>
       </td>
-      <td align="center" width="300" style="border: none;">
+      <td width="50" style="border: none;"></td>
+      <td align="center" width="350" height="250" style="border: none;">
         <a href="URL_SOCHO">
           <img src="images/socho-notebook.png" height="120">
         </a>
