@@ -1,24 +1,35 @@
 # Creative Works by [Your Name] 👋
 
-<p align="center">
-  <a href="URL_CORAL">
-    <img src="images/coralyoshinaga.png" height="100" hspace="20" vspace="20">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="URL_KAMATA">
-    <img src="images/kamataorchestra.png" height="100" hspace="20" vspace="20">
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="URL_VBIS">
-    <img src="images/v-bis.png" height="120" hspace="20" vspace="20">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="URL_SOCHO">
-    <img src="images/socho-notebook.png" height="120" hspace="20" vspace="20">
-  </a>
-</p>
+<table border="0" cellspacing="0" cellpadding="40">
+  <tr>
+    <td align="center">
+      <a href="URL_CORAL">
+        <img src="images/coralyoshinaga.png" height="100">
+      </a>
+    </td>
+    <td align="center">
+      <a href="URL_KAMATA">
+        <img src="images/kamataorchestra.png" height="100">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="URL_VBIS">
+        <img src="images/v-bis.png" height="120">
+      </a>
+    </td>
+    <td align="center">
+      <a href="URL_SOCHO">
+        <img src="images/socho-notebook.png" height="120">
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
