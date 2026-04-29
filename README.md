@@ -54,7 +54,7 @@
 <br>
 
 <div align="center">
-  <a href="PLAYLIST_URL_1"><img src="https://img.shields.io/badge/▶ プレイリスト名1-FF0000?style=flat-square&logoColor=white">Vlog 🎬</a>
+  <a href="PLAYLIST_URL_1"><img src="https://img.shields.io/badge/▶ Vlog 🎬-FF0000?style=flat-square&logoColor=white"></a>
   &nbsp;
   <a href="PLAYLIST_URL_2"><img src="https://img.shields.io/badge/▶ プレイリスト名2-FF0000?style=flat-square&logoColor=white"></a>
   <a href="PLAYLIST_URL_2"><img src="https://img.shields.io/badge/▶ プレイリスト名2-FF0000?style=flat-square&logoColor=white"></a>
