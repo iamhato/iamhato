@@ -29,3 +29,24 @@
 <img src="https://img.shields.io/badge/v--BiS-7B68C8?style=flat-square&logoColor=white"> — A curated gallery site for visual inspiration.
 
 <img src="https://img.shields.io/badge/Socho Notebook!-5BAD8F?style=flat-square&logoColor=white"> — Official website for my band project.
+
+---
+
+### 📺 YouTube
+
+<br>
+
+<div>
+  <a href="YOUR_YOUTUBE_URL">
+    <img src="images/youtube.png" height="80" align="left">
+  </a>
+  <div>
+    &nbsp;&nbsp;<strong>チャンネル名</strong><br>
+    &nbsp;&nbsp;チャンネルの説明文をここに書く。<br>
+    &nbsp;&nbsp;<br>
+    &nbsp;&nbsp;🎵 <a href="PLAYLIST_URL_1">プレイリスト名1</a><br>
+    &nbsp;&nbsp;🎬 <a href="PLAYLIST_URL_2">プレイリスト名2</a>
+  </div>
+</div>
+
+<br><br>
