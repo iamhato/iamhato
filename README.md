@@ -1,43 +1,72 @@
-# Hi there, I'm [Your Name]! 👋
-
-I'm a developer who enjoys the creative side of code.  
-This is my digital playground where I experiment with web tech, music, and visuals.
+# Hi, I'm [Your Name]! 👋
+A designer crafting digital experiences through web, music, and visuals.
 
 ---
 
-## 🛠 My Creative Works
-A collection of things I've built for fun and curiosity.
+## 🌐 Managed Media & Platforms
+Building spaces for inspiration and creativity.
 
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Project Name One</h3>
-      <img src="images/coralyoshinaga.png" alt="Project 1" width="100%">
-      <p>A fun web app focused on simple interactions and clean UI. Built with a focus on CSS-driven animations.</p>
-      <p><strong><a href="#">View Project →</a></strong></p>
+      <a href="URL_CORAL">
+        <img src="images/coralyoshinaga.png" alt="Coral Yoshinaga" width="100%">
+      </a>
+      <p align="center"><strong>Coral Yoshinaga</strong><br>
+      Dummy text: A media site focusing on art and lifestyle visuals.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌟 Project Name Two</h3>
-      <img src="https://via.placeholder.com/600x350/6495ed/ffffff?text=App+Screenshot+2" alt="Project 2" width="100%">
-      <p>A personal web service for managing small tasks. Exploring how to make everyday tools more enjoyable.</p>
-      <p><strong><a href="#">Launch Service →</a></strong></p>
+      <a href="URL_KAMATA">
+        <img src="images/kamataorchestra.png" alt="KamataOrchestra" width="100%">
+      </a>
+      <p align="center"><strong>KamataOrchestra</strong><br>
+      Dummy text: Exploring the intersection of local culture and sound.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="URL_VBIS">
+        <img src="images/v-bis.png" alt="v-BiS" width="100%">
+      </a>
+      <p align="center"><strong>v-BiS</strong><br>
+      Dummy text: A curated gallery site for visual inspiration.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="URL_SOCHO">
+        <img src="images/socho-notebook.png" alt="Socho Notebook!" width="100%">
+      </a>
+      <p align="center"><strong>Socho Notebook!</strong><br>
+      Dummy text: Official website for my band project.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🎸 Life Outside of Code
-I believe creativity shouldn't be limited to a terminal.
+## 🎸 Creative Hub
+Everything else I create, from motion to music.
 
-* **🎥 YouTube**: [My Channel](https://youtube.com)  
-    *I post music sessions and creative vlogs here. Come say hi!*
-* **🌐 Personal Service**: [Service URL](https://example.com)  
-    *A small platform I run to share my hobbies with the world.*
-* **🎵 Current Sound**:  
-    Exploring **Ryukyuan scales** and technical guitar tunings. Currently obsessed with the bright vibes of **FACGCE**.
+<p align="center">
+  <a href="YOUR_YOUTUBE_URL">
+    <img src="images/youtube-icon.png" alt="YouTube" width="50">
+  </a>
+  <br>
+  <strong>YouTube Channel</strong><br>
+  Vlogs, Band MV, and Guitar Sessions.
+</p>
+
+<p align="center">
+  <strong>Current Sound Study</strong>: 
+  Ryukyuan Scales | <b>FACGCE</b> Tuning | Guitar Improvisation
+</p>
 
 ---
 
-## 📊 My Language Mix
-![Language Stats](
+## 📊 Language Mix
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourID]&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+<p align="center">
+  Let's make something beautiful together.
+</p>
