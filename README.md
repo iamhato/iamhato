@@ -12,7 +12,7 @@ A collection of things I've built for fun and curiosity.
   <tr>
     <td width="50%" valign="top">
       <h3>🚀 Project Name One</h3>
-      <img src="https://via.placeholder.com/600x350/ff7f50/ffffff?text=App+Screenshot+1" alt="Project 1" width="100%">
+      <img src="images/coralyoshinaga.png" alt="Project 1" width="100%">
       <p>A fun web app focused on simple interactions and clean UI. Built with a focus on CSS-driven animations.</p>
       <p><strong><a href="#">View Project →</a></strong></p>
     </td>
