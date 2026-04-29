@@ -6,7 +6,7 @@ A designer crafting digital experiences through web, music, and visuals.
 ## 🌐 Managed Media & Platforms
 Building spaces for inspiration and creativity.
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="20" cellpadding="0">
   <tr>
     <td width="400" valign="top" style="border: none;">
       <blockquote>
