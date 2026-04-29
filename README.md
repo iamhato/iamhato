@@ -51,15 +51,13 @@
   <strong>チャンネル名</strong>
 </div>
 
-<div align="center">
-  チャンネルの説明文をここに書く。
-</div>
-
 <br>
 
 <div align="center">
-  <a href="PLAYLIST_URL_1"><img src="https://img.shields.io/badge/▶ プレイリスト名1-FF0000?style=flat-square&logoColor=white"></a>
+  <a href="PLAYLIST_URL_1"><img src="https://img.shields.io/badge/▶ プレイリスト名1-FF0000?style=flat-square&logoColor=white">Vlog 🎬</a>
   &nbsp;
+  <a href="PLAYLIST_URL_2"><img src="https://img.shields.io/badge/▶ プレイリスト名2-FF0000?style=flat-square&logoColor=white"></a>
+  <a href="PLAYLIST_URL_2"><img src="https://img.shields.io/badge/▶ プレイリスト名2-FF0000?style=flat-square&logoColor=white"></a>
   <a href="PLAYLIST_URL_2"><img src="https://img.shields.io/badge/▶ プレイリスト名2-FF0000?style=flat-square&logoColor=white"></a>
 </div>
 
