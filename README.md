@@ -66,3 +66,4 @@
 </div>
 
 <br><br>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=iamhato-manase&show_icons=true&locale=en&layout=compact)
