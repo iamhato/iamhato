@@ -10,14 +10,14 @@ Building spaces for inspiration and creativity.
   <tr>
     <td width="50%" valign="top">
       <a href="URL_CORAL">
-        <img src="images/coralyoshinaga.png" alt="Coral Yoshinaga" width="100%">
+        <img src="images/coralyoshinaga.png" alt="Coral Yoshinaga" height="200">
       </a>
       <p align="center"><strong>Coral Yoshinaga</strong><br>
       Dummy text: A media site focusing on art and lifestyle visuals.</p>
     </td>
     <td width="50%" valign="top">
       <a href="URL_KAMATA">
-        <img src="images/kamataorchestra.png" alt="KamataOrchestra" width="100%">
+        <img src="images/kamataorchestra.png" alt="KamataOrchestra" height="200">
       </a>
       <p align="center"><strong>KamataOrchestra</strong><br>
       Dummy text: Exploring the intersection of local culture and sound.</p>
@@ -26,14 +26,14 @@ Building spaces for inspiration and creativity.
   <tr>
     <td width="50%" valign="top">
       <a href="URL_VBIS">
-        <img src="images/v-bis.png" alt="v-BiS" width="100%">
+        <img src="images/v-bis.png" alt="v-BiS" height="200">
       </a>
       <p align="center"><strong>v-BiS</strong><br>
       Dummy text: A curated gallery site for visual inspiration.</p>
     </td>
     <td width="50%" valign="top">
       <a href="URL_SOCHO">
-        <img src="images/socho-notebook.png" alt="Socho Notebook!" width="100%">
+        <img src="images/socho-notebook.png" alt="Socho Notebook!" height="200">
       </a>
       <p align="center"><strong>Socho Notebook!</strong><br>
       Dummy text: Official website for my band project.</p>
