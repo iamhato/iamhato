@@ -2,7 +2,7 @@
 
 <br>
 
-<div align="center">
+<div>
   <a href="https://cy-cy.jp/">
     <img src="images/coralyoshinaga.png" height="90">
   </a>
