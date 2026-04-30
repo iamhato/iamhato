@@ -31,9 +31,7 @@
 ### 📑 Project Index
 
 <a href="https://cy-cy.jp/"><img src="images/coralyoshinaga.png" height="24"></a>&nbsp;奄美・沖縄へと向かった男たちの物語
-
-<a href="https://kamataorchestra.pepper.jp/"><img src="images/kamataorchestra.png" height="24"></a> &nbsp; <a href="https://kamataorchestra.pepper.jp/">&nbsp;温泉サークル作曲部による旅行記
-
+<a href="https://kamataorchestra.pepper.jp/"><img src="images/kamataorchestra.png" height="24">&nbsp;温泉サークル作曲部による旅行記</a>
 <a href="https://v-bis.pages.dev/"><img src="images/v-bis.png" height="24"></a>&nbsp;3期BiSの記録
 <a href="https://socho-notebook.pages.dev/"><img src="images/socho-notebook.png" height="24"></a>&nbsp;青春マスロック集団 早朝ノートブック！の公式サイト
 
