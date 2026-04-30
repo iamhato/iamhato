@@ -14,7 +14,7 @@
 
 <br>
 
-<div align="center">
+<div>
   <a href="https://v-bis.pages.dev/">
     <img src="images/v-bis.png" height="110">
   </a>
