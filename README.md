@@ -50,7 +50,9 @@
 <br>
 
 <div align="center">
- [!['altテキスト']('https://i.ytimg.com/vi/YDobOtnFm9w/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDpjhEdRwwNKz1IZnAWVoLUa0rt-g')]('[https://www.youtube.com/watch?v=YDobOtnFm9w](https://youtu.be/YDobOtnFm9w?si=vZpYmnCYqKtEekka)')
+<a href="https://www.youtube.com/watch?v=YDobOtnFm9w">
+  <img src="https://img.youtube.com/vi/YDobOtnFm9w/maxresdefault.jpg" width="480">
+</a>
 <br>
   <a href="https://youtube.com/playlist?list=PLm8Oh22BrJEa6WvLnhdt3sZKiuDkldvUg&si=m4RA0YRCrFlGdz8W"><img src="https://img.shields.io/badge/▶ Vlog 🎬-FF0000?style=flat-square&logoColor=white"></a>
   &nbsp;
