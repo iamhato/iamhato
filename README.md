@@ -50,12 +50,8 @@
 <br>
 
 <div align="center">
-  <strong>チャンネル名</strong>
-</div>
-
+ [!['altテキスト']('https://i.ytimg.com/vi/YDobOtnFm9w/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDpjhEdRwwNKz1IZnAWVoLUa0rt-g')]('https://www.youtube.com/watch?v=YDobOtnFm9w')
 <br>
-
-<div align="center">
   <a href="https://youtube.com/playlist?list=PLm8Oh22BrJEa6WvLnhdt3sZKiuDkldvUg&si=m4RA0YRCrFlGdz8W"><img src="https://img.shields.io/badge/▶ Vlog 🎬-FF0000?style=flat-square&logoColor=white"></a>
   &nbsp;
   <a href="https://youtube.com/playlist?list=PLm8Oh22BrJEbx0wb7BYu7LpoS69uKzEyf&si=a-wZ3hC34TJI-x4z"><img src="https://img.shields.io/badge/▶ Bass🍍-FF0000?style=flat-square&logoColor=white"></a>
