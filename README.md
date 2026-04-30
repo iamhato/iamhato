@@ -36,34 +36,45 @@
 <a href="https://socho-notebook.pages.dev/"><img src="images/socho-notebook.png" height="36"></a><br>青春マスロック集団 早朝ノートブック！の公式サイト
 
 ---
+---
 
-### 📺 YouTube
+### On YouTube
 
 <br>
 
 <div align="center">
-  <a href="YOUR_YOUTUBE_URL">
-    <img src="images/youtube.png" height="120">
+  <a href="https://www.youtube.com/@user-rt4chizy6z">
+    <img src="images/youtube.png" height="60">
+  </a>
+  <br>
+  <a href="https://www.youtube.com/@user-rt4chizy6z">チャンネル名</a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=ii3dqZtnFmA">
+    <img src="https://img.youtube.com/vi/ii3dqZtnFmA/mqdefault.jpg" width="30%">
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/watch?v=YDobOtnFm9w">
+    <img src="https://img.youtube.com/vi/YDobOtnFm9w/mqdefault.jpg" width="30%">
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/watch?v=FZ6VzdC8XdE&t=537s">
+    <img src="https://img.youtube.com/vi/FZ6VzdC8XdE/mqdefault.jpg" width="30%">
   </a>
 </div>
 
 <br>
 
 <div align="center">
-<a href="https://www.youtube.com/watch?v=YDobOtnFm9w">
-  <img src="https://img.youtube.com/vi/YDobOtnFm9w/maxresdefault.jpg" width="480">
-</a>
-<br>
-  <a href="https://youtube.com/playlist?list=PLm8Oh22BrJEa6WvLnhdt3sZKiuDkldvUg&si=m4RA0YRCrFlGdz8W"><img src="https://img.shields.io/badge/▶ Vlog 🎬-FF0000?style=flat-square&logoColor=white"></a>
+  <a href="PLAYLIST_URL_1"><img src="https://img.shields.io/badge/▶ プレイリスト名1-FF0000?style=flat-square&logoColor=white"></a>
   &nbsp;
-  <a href="https://youtube.com/playlist?list=PLm8Oh22BrJEbx0wb7BYu7LpoS69uKzEyf&si=a-wZ3hC34TJI-x4z"><img src="https://img.shields.io/badge/▶ Bass🍍-FF0000?style=flat-square&logoColor=white"></a>
-  &nbsp;
-  <a href="https://youtube.com/playlist?list=PLm8Oh22BrJEZQaMoZ4l-7xqclVHsboyme&si=dPvxpFO9mw7akpLH"><img src="https://img.shields.io/badge/▶ Pickstyle Guitar🏄‍♂️-FF0000?style=flat-square&logoColor=white"></a>
-  &nbsp;
-  <a href="https://youtube.com/playlist?list=PLm8Oh22BrJEaDOYHVkuHY8uHhPnEXHXZW&si=0KCMbGdHk1xMsbgp"><img src="https://img.shields.io/badge/▶ Fingerstyle Guitar🫰-FF0000?style=flat-square&logoColor=white"></a>
-  &nbsp;
-  <a href="https://youtube.com/playlist?list=PLm8Oh22BrJEbehnxyiUuvn5AqRSmrlp_S&si=arN9fSXzCSxPRYMq"><img src="https://img.shields.io/badge/▶ 早朝ノートブック！🍳-FF0000?style=flat-square&logoColor=white"></a>
+  <a href="PLAYLIST_URL_2"><img src="https://img.shields.io/badge/▶ プレイリスト名2-FF0000?style=flat-square&logoColor=white"></a>
 </div>
+
+<br><br>
 
 <br><br>
 ---
