@@ -30,10 +30,10 @@
 
 ### 📑 Project Index
 
-<a href="https://cy-cy.jp/"><img src="images/coralyoshinaga.png" height="24"></a>&nbsp;-&nbsp;奄美・沖縄へと向かった男たちの物語<br><br>
-<a href="https://kamataorchestra.pepper.jp/"><img src="images/kamataorchestra.png" height="24"></a>&nbsp;-&nbsp;温泉サークル作曲部による旅行記<br><br>
-<a href="https://v-bis.pages.dev/"><img src="images/v-bis.png" height="30"></a>&nbsp;-&nbsp;3期BiSの記録<br><br>
-<a href="https://socho-notebook.pages.dev/"><img src="images/socho-notebook.png" height="30"></a>&nbsp;-&nbsp;青春マスロック集団 早朝ノートブック！の公式サイト
+<a href="https://cy-cy.jp/"><img src="images/coralyoshinaga.png" height="24"></a>&nbsp;|&nbsp;奄美・沖縄へと向かった男たちの物語<br><br>
+<a href="https://kamataorchestra.pepper.jp/"><img src="images/kamataorchestra.png" height="24"></a>&nbsp;|&nbsp;温泉サークル作曲部による旅行記<br><br>
+<a href="https://v-bis.pages.dev/"><img src="images/v-bis.png" height="36"></a>&nbsp;|&nbsp;3期BiSの記録<br><br>
+<a href="https://socho-notebook.pages.dev/"><img src="images/socho-notebook.png" height="36"></a>&nbsp;|&nbsp;青春マスロック集団 早朝ノートブック！の公式サイト
 
 ---
 
