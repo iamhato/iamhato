@@ -1,5 +1,8 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="25" height="25" />
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=iamhato&show_icons=true&locale=en&layout=compact)
+
+<br>
+
 <div>
   <a href="https://cy-cy.jp/">
     <img src="images/coralyoshinaga.png" height="90">
@@ -9,8 +12,6 @@
     <img src="images/kamataorchestra.png" height="90">
   </a>
 </div>
-
-<br>
 
 <div>
   <a href="https://v-bis.pages.dev/">
