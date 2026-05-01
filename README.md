@@ -34,7 +34,7 @@
 
 ---
 
-<a href="https://www.youtube.com/@user-rt4chizy6z"><img src="images/youtube.png" height="100"></a>
+<a href="https://www.youtube.com/@user-rt4chizy6z"><img src="images/youtube.png" height="50"></a>
 
 <br>
 
