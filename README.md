@@ -36,7 +36,7 @@
 
 ---
 
-### <img src="images/youtube.png" height="60">
+<div align="center">### <img src="images/youtube.png" height="60"></div>
 
 <br>
 
