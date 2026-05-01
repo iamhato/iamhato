@@ -61,7 +61,7 @@
   &nbsp;
 <a href="https://youtube.com/playlist?list=PLm8Oh22BrJEaDOYHVkuHY8uHhPnEXHXZW&si=0KCMbGdHk1xMsbgp"><img src="https://img.shields.io/badge/▶ Fingerstyle Guitar🫰-FF0000?style=flat-square&logoColor=white"></a>
   &nbsp;
-<a href="https://youtube.com/playlist?list=PLm8Oh22BrJEaDOYHVkuHY8uHhPnEXHXZW&si=0KCMbGdHk1xMsbgp"><img src="https://img.shields.io/badge/▶ Fingerstyle Guitar🫰-FF0000?style=flat-square&logoColor=white"></a>
+<a href="https://youtube.com/playlist?list=PLm8Oh22BrJEaDOYHVkuHY8uHhPnEXHXZW&si=b49lULmb1pEqyInP"><img src="https://img.shields.io/badge/▶ Pickstyle Guitar🏄‍♂️-FF0000?style=flat-square&logoColor=white"></a>
   &nbsp;
 <a href="https://youtube.com/playlist?list=PLm8Oh22BrJEbehnxyiUuvn5AqRSmrlp_S&si=arN9fSXzCSxPRYMq"><img src="https://img.shields.io/badge/▶ 早朝ノートブック！🍳-FF0000?style=flat-square&logoColor=white"></a>
 </div>
