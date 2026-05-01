@@ -1,6 +1,8 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="25" height="25" />
 <br>
-## 
+![](https://github-readme-stats.vercel.app/api/top-langs?username=iamhato&show_icons=true&locale=en&layout=compact)
+<br>
+## Projects
 <div>
   <a href="https://cy-cy.jp/">
     <img src="images/coralyoshinaga.png" height="90">
@@ -26,8 +28,6 @@
 <br><br>
 
 ---
-
-### 📑 Project Index
 
 <a href="https://cy-cy.jp/"><img src="images/coralyoshinaga.png" height="24"></a><br>奄美・沖縄へと向かった男たちの物語<br><br>
 <a href="https://kamataorchestra.pepper.jp/"><img src="images/kamataorchestra.png" height="24"></a><br>温泉サークル作曲部による旅行記<br><br>
@@ -66,8 +66,3 @@
 <a href="https://youtube.com/playlist?list=PLm8Oh22BrJEbehnxyiUuvn5AqRSmrlp_S&si=arN9fSXzCSxPRYMq"><img src="https://img.shields.io/badge/▶ 早朝ノートブック！🍳-FF0000?style=flat-square&logoColor=white"></a>
 </div>
 
-<br><br>
-
-<br><br>
----
-![](https://github-readme-stats.vercel.app/api/top-langs?username=iamhato&show_icons=true&locale=en&layout=compact)
