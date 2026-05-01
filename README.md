@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="25" height="25" />
 <br>
-
+## 
 <div>
   <a href="https://cy-cy.jp/">
     <img src="images/coralyoshinaga.png" height="90">
@@ -35,19 +35,8 @@
 <a href="https://socho-notebook.pages.dev/"><img src="images/socho-notebook.png" height="36"></a><br>青春マスロック集団 早朝ノートブック！の公式サイト
 
 ---
----
 
-### On YouTube
-
-<br>
-
-<div align="center">
-  <a href="https://www.youtube.com/@user-rt4chizy6z">
-    <img src="images/youtube.png" height="60">
-  </a>
-  <br>
-  <a href="https://www.youtube.com/@user-rt4chizy6z">チャンネル名</a>
-</div>
+### <img src="images/youtube.png" height="60">
 
 <br>
 
@@ -71,7 +60,9 @@
   <a href="https://youtube.com/playlist?list=PLm8Oh22BrJEa6WvLnhdt3sZKiuDkldvUg&si=m4RA0YRCrFlGdz8W"><img src="https://img.shields.io/badge/▶ Vlog 🎬-FF0000?style=flat-square&logoColor=white"></a>
   &nbsp;
   <a href="https://youtube.com/playlist?list=PLm8Oh22BrJEbx0wb7BYu7LpoS69uKzEyf&si=a-wZ3hC34TJI-x4z"><img src="https://img.shields.io/badge/▶ Bass🍍-FF0000?style=flat-square&logoColor=white"></a>
+  &nbsp;
 <a href="https://youtube.com/playlist?list=PLm8Oh22BrJEaDOYHVkuHY8uHhPnEXHXZW&si=0KCMbGdHk1xMsbgp"><img src="https://img.shields.io/badge/▶ Fingerstyle Guitar🫰-FF0000?style=flat-square&logoColor=white"></a>
+  &nbsp;
 <a href="https://youtube.com/playlist?list=PLm8Oh22BrJEbehnxyiUuvn5AqRSmrlp_S&si=arN9fSXzCSxPRYMq"><img src="https://img.shields.io/badge/▶ 早朝ノートブック！🍳-FF0000?style=flat-square&logoColor=white"></a>
 </div>
 
