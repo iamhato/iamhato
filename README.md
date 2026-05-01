@@ -2,6 +2,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=iamhato&show_icons=true&locale=en&layout=compact)
 
 <br>
+---
 
 <div>
   <a href="https://cy-cy.jp/">
@@ -23,9 +24,7 @@
   </a>
 </div>
 
-<br><br>
-
----
+<br>
 
 <a href="https://cy-cy.jp/"><img src="images/coralyoshinaga.png" height="24"></a><br>奄美・沖縄へと向かった男たちの物語<br><br>
 <a href="https://kamataorchestra.pepper.jp/"><img src="images/kamataorchestra.png" height="24"></a><br>温泉サークル作曲部による旅行記<br><br>
