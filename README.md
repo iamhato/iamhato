@@ -1,15 +1,9 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="25" height="25" />
-<table border="none" cellspacing="0" cellpadding="20" frame="void" rules="none">
-  <tr>
-    <td valign="middle" width="55%">
-      It all started when I was a teenager, making sites on Tumblr and designing signboards for school.<br><br>
-      I want to embrace making lots of mistakes on the journey to creating something great.
-    </td>
-    <td valign="middle">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamhato&theme=slateorange">
-    </td>
-  </tr>
-</table>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamhato&theme=slateorange" align="right" width="45%">
+
+It all started when I was a teenager, making sites on Tumblr and designing signboards for school.
+
+I want to embrace making lots of mistakes on the journey to creating something great.
 
 
 <br>
