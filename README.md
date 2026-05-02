@@ -1,4 +1,5 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="25" height="25" />
+![](https://github-readme-stats.vercel.app/api/top-langs?username=iamhato&show_icons=true&locale=en&layout=compact)
 
 
 <br>
