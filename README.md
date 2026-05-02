@@ -14,21 +14,21 @@ I want to embrace making lots of mistakes on the journey to creating something g
 
 <div>
   <a target="_blank" href="https://cy-cy.jp/">
-    <img src="images/coralyoshinaga.png" height="90">
+    <img src="images/coralyoshinaga.png" height="190">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://kamataorchestra.pepper.jp/">
-    <img src="images/kamataorchestra.png" height="90">
+    <img src="images/kamataorchestra.png" height="190">
   </a>
 </div>
 
 <div>
   <a target="_blank" href="https://v-bis.pages.dev/">
-    <img src="images/v-bis.png" height="110">
+    <img src="images/v-bis.png" height="190">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://socho-notebook.pages.dev/">
-    <img src="images/socho-notebook.png" height="110">
+    <img src="images/socho-notebook.png" height="190">
   </a>
 </div>
 
