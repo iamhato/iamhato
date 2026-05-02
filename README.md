@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="25" height="25" />
-<table border="0" cellspacing="0" cellpadding="20" frame="void" rules="none">
+<table border="none" cellspacing="0" cellpadding="20" frame="void" rules="none">
   <tr>
     <td valign="middle" width="55%">
       It all started when I was a teenager, making sites on Tumblr and designing signboards for school.<br><br>
