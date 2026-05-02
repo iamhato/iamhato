@@ -6,6 +6,10 @@ It all started when I was a teenager, <br>
 making sites on Tumblr and designing signboards for school.<br>
 I want to embrace making lots of mistakes on the journey to creating something great.
 
+<br>
+<br>
+<br>
+
 ## Projects
 
 <div>
