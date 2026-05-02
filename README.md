@@ -14,30 +14,30 @@ I want to embrace making lots of mistakes on the journey to creating something g
 
 <div>
   <a target="_blank" href="https://cy-cy.jp/">
-    <img src="images/coralyoshinaga.png" height="150">
+    <img src="images/coralyoshinaga.png" height="190">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://kamataorchestra.pepper.jp/">
-    <img src="images/kamataorchestra.png" height="150">
+    <img src="images/kamataorchestra.png" height="190">
   </a>
 </div>
 
 <div>
   <a target="_blank" href="https://v-bis.pages.dev/">
-    <img src="images/v-bis.png" height="150">
+    <img src="images/v-bis.png" height="190">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://socho-notebook.pages.dev/">
-    <img src="images/socho-notebook.png" height="150">
+    <img src="images/socho-notebook.png" height="190">
   </a>
 </div>
 
 <br>
 
-<a target="_blank" href="https://cy-cy.jp/"><img src="images/coralyoshinaga.png" height="50"></a><br>奄美・沖縄へと向かった男たちの物語<br><br>
-<a target="_blank" href="https://kamataorchestra.pepper.jp/"><img src="images/kamataorchestra.png" height="24"></a><br>温泉サークル作曲部による旅行記<br><br>
-<a target="_blank" href="https://v-bis.pages.dev/"><img src="images/v-bis.png" height="30"></a><br>3期BiSの記録<br><br>
-<a target="_blank" href="https://socho-notebook.pages.dev/"><img src="images/socho-notebook.png" height="36"></a><br>青春マスロック集団 早朝ノートブック！の公式サイト
+<a target="_blank" href="https://cy-cy.jp/"><img src="images/coralyoshinaga.png" height="50"></a><br>&nbsp;奄美・沖縄へと向かった男たちの物語<br><br>
+<a target="_blank" href="https://kamataorchestra.pepper.jp/"><img src="images/kamataorchestra.png" height="50"></a><br>&nbsp;温泉サークル作曲部による旅行記<br><br>
+<a target="_blank" href="https://v-bis.pages.dev/"><img src="images/v-bis.png" height="50"></a><br>&nbsp;3期BiSの記録<br><br>
+<a target="_blank" href="https://socho-notebook.pages.dev/"><img src="images/socho-notebook.png" height="50"></a><br>&nbsp;青春マスロック集団 早朝ノートブック！の公式サイト
 
 ---
 
