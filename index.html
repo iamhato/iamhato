@@ -86,7 +86,6 @@ body {
 .hero {
   padding: 5rem 1.25rem;
   border-bottom: 1px solid var(--border);
-  max-width: 640px;
 }
 .hero-title .dot { color: var(--accent); }
 .hero-body {
@@ -415,7 +414,7 @@ footer {
     <a class="sec-more" href="https://www.youtube.com/@user-rt4chizy6z" target="_blank">チャンネルへ →</a>
   </div>
   <div class="yt-tabs">
-    <button class="yt-tab active" data-cat="vlog">🎬 Vlog</button>
+    <button class="yt-tab" data-cat="session">🎷 Session</button>
     <button class="yt-tab" data-cat="bass">🍍 Bass</button>
     <button class="yt-tab" data-cat="guitar">🫰 Guitar</button>
   </div>
@@ -426,13 +425,6 @@ footer {
       allowfullscreen loading="lazy"></iframe>
   </div>
   <div class="yt-thumbs" id="yt-thumbs"></div>
-  <div class="yt-pls">
-    <a class="yt-pl" href="https://youtube.com/playlist?list=PLm8Oh22BrJEa6WvLnhdt3sZKiuDkldvUg" target="_blank">▶ Vlog</a>
-    <a class="yt-pl" href="https://youtube.com/playlist?list=PLm8Oh22BrJEbx0wb7BYu7LpoS69uKzEyf" target="_blank">▶ Bass 🍍</a>
-    <a class="yt-pl" href="https://youtube.com/playlist?list=PLm8Oh22BrJEaDOYHVkuHY8uHhPnEXHXZW" target="_blank">▶ Fingerstyle 🫰</a>
-    <a class="yt-pl" href="https://youtube.com/playlist?list=PLm8Oh22BrJEaDOYHVkuHY8uHhPnEXHXZW" target="_blank">▶ Pickstyle 🏄</a>
-    <a class="yt-pl" href="https://youtube.com/playlist?list=PLm8Oh22BrJEbehnxyiUuvn5AqRSmrlp_S" target="_blank">▶ 早朝ノートブック！🍳</a>
-  </div>
 </section>
 
 <!-- FOOTER -->
@@ -461,9 +453,9 @@ carousel.addEventListener('scroll', () => {
 
 // YouTube
 const ytData = {
-  vlog:   [{ id: 'QeCzZxK--SM' }, { id: '4frKVkccUck' }, { id: 'o0DG1jdetuc' }],
-  bass:   [{ id: 'YDobOtnFm9w' }, { id: 'YDobOtnFm9w' }],
-  guitar: [{ id: 'i8FgazNW-mI' }, { id: 'TSkr-sDEpxk' }],
+  session: [{ id: '4frKVkccUck' },{ id: 'o0DG1jdetuc' },{ id: 'FZ6VzdC8XdE' }, { id: '_WdU1EZ1-Ow' }, { id: '4frKVkccUck' }],
+  bass:   [{ id: 'YDobOtnFm9w' }, { id: 'KH9uW8Y6cdk' }],
+  guitar: [{ id: 'i8FgazNW-mI' }, {id: 'ii3dqZtnFmA'},{id: 'TtpqHI9vKxo'},{ id: 'TSkr-sDEpxk' }],
 };
 
 function renderThumbs(cat, activeIdx = 0) {
