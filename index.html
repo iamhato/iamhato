@@ -3,10 +3,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Haisai World.</title>
+<link rel="icon" href="/images/favicon.png" type="image/png">
+<title>iamhato</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
 <style>
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -108,23 +110,7 @@ body {
   flex-wrap: wrap;
   margin-top: 20px;
 }
-.btn-primary {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.4rem;
-  font-size: 0.82rem;
-  font-weight: 600;
-  color: #fff;
-  background: var(--accent);
-  border: none;
-  border-radius: var(--radius-sm);
-  padding: 0.6rem 1.2rem;
-  text-decoration: none;
-  cursor: pointer;
-  transition: opacity 0.15s, transform 0.15s;
-}
-.btn-primary:hover { opacity: 0.88; transform: translateY(-1px); }
-.btn-ghost {
+.btn {
   display: inline-flex;
   align-items: center;
   gap: 0.4rem;
@@ -139,7 +125,7 @@ body {
   cursor: pointer;
   transition: background 0.15s, color 0.15s;
 }
-.btn-ghost:hover { background: var(--bg2); color: var(--fg); }
+.btn:hover { background: var(--bg2); color: var(--fg); }
 
 /* ── SECTION ── */
 section {
@@ -326,22 +312,6 @@ section {
 }
 .yt-pl:hover { border-color: var(--accent); color: var(--accent); background: var(--accent-bg); }
 
-/* ── FOOTER ── */
-footer {
-  padding: 2rem 1.25rem;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 0.75rem;
-}
-.footer-logo {
-  font-size: 0.92rem;
-  font-weight: 600;
-  color: var(--fg);
-  letter-spacing: -0.01em;
-}
-.footer-copy { font-size: 0.75rem; color: var(--fg3); }
 </style>
 </head>
 <body>
@@ -355,8 +325,7 @@ footer {
     
   </p>
   <div class="hero-actions">
-    <a class="btn-primary" href="#projects">Projects →</a>
-    <a class="btn-ghost" href="https://github.com/iamhato" target="_blank">GitHub</a>
+    <a class="btn" href="https://github.com/iamhato" target="_blank">GitHub <i class="fa-brands fa-github"></i></a>
   </div>
 </div>
 
@@ -367,33 +336,33 @@ footer {
   </div>
   <div class="carousel" id="carousel">
     <a class="p-card" href="https://cy-cy.jp/" target="_blank">
-      <div class="p-img"><img src="https://github.com/iamhato/iamhato/raw/main/images/coralyoshinaga.png" alt="Coral Yoshinaga" loading="lazy"></div>
+      <div class="p-img"><img src="/images/coralyoshinaga.png" alt="Coral Yoshinaga" loading="lazy"></div>
       <div class="p-body">
-        <div class="p-meta">01 — Website</div>
+        <div class="p-meta">01</div>
         <div class="p-name">Coral Yoshinaga</div>
         <p class="p-desc">奄美・沖縄へと向かった男たちの物語</p>
       </div>
     </a>
     <a class="p-card" href="https://kamataorchestra.pepper.jp/" target="_blank">
-      <div class="p-img"><img src="https://github.com/iamhato/iamhato/raw/main/images/kamataorchestra.png" alt="Kamata Orchestra" loading="lazy"></div>
+      <div class="p-img"><img src="/images/kamataorchestra.png" alt="Kamata Orchestra" loading="lazy"></div>
       <div class="p-body">
-        <div class="p-meta">02 — Website</div>
+        <div class="p-meta">02</div>
         <div class="p-name">Kamata Orchestra</div>
         <p class="p-desc">温泉サークル作曲部による旅行記</p>
       </div>
     </a>
     <a class="p-card" href="https://v-bis.pages.dev/" target="_blank">
-      <div class="p-img"><img src="https://github.com/iamhato/iamhato/raw/main/images/v-bis.png" alt="v-BiS" loading="lazy"></div>
+      <div class="p-img"><img src="/images/v-bis.png" alt="v-BiS" loading="lazy"></div>
       <div class="p-body">
-        <div class="p-meta">03 — Vue.js</div>
+        <div class="p-meta">03</div>
         <div class="p-name">v-BiS</div>
         <p class="p-desc">3期BiSの記録</p>
       </div>
     </a>
     <a class="p-card" href="https://socho-notebook.pages.dev/" target="_blank">
-      <div class="p-img"><img src="https://github.com/iamhato/iamhato/raw/main/images/socho-notebook.png" alt="早朝ノートブック！" loading="lazy"></div>
+      <div class="p-img"><img src=" /images/socho-notebook.png" alt="早朝ノートブック！" loading="lazy"></div>
       <div class="p-body">
-        <div class="p-meta">04 — Website</div>
+        <div class="p-meta">04</div>
         <div class="p-name">早朝ノートブック！</div>
         <p class="p-desc">青春マスロック集団の公式サイト</p>
       </div>
@@ -411,27 +380,21 @@ footer {
 <section id="youtube">
   <div class="sec-header">
     <div class="sec-title">YouTube</div>
-    <a class="sec-more" href="https://www.youtube.com/@user-rt4chizy6z" target="_blank">チャンネルへ →</a>
+    <a class="sec-more" href="https://www.youtube.com/@user-rt4chizy6z" target="_blank">To Channel →</a>
   </div>
   <div class="yt-tabs">
     <button class="yt-tab" data-cat="session">🎷 Session</button>
-    <button class="yt-tab" data-cat="bass">🍍 Bass</button>
     <button class="yt-tab" data-cat="guitar">🫰 Guitar</button>
+    <button class="yt-tab" data-cat="bass">🍍 Bass</button>
   </div>
   <div class="yt-player">
     <iframe id="yt-iframe"
-      src="https://www.youtube.com/embed/ii3dqZtnFmA"
+      src="https://www.youtube.com/embed/4frKVkccUck"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen loading="lazy"></iframe>
   </div>
   <div class="yt-thumbs" id="yt-thumbs"></div>
 </section>
-
-<!-- FOOTER -->
-<footer>
-  <div class="footer-logo">🐱 Haisai World.</div>
-  <div class="footer-copy">© 2026 iamhato</div>
-</footer>
 
 <script>
 // Carousel
@@ -453,9 +416,9 @@ carousel.addEventListener('scroll', () => {
 
 // YouTube
 const ytData = {
-  session: [{ id: '4frKVkccUck' },{ id: 'o0DG1jdetuc' },{ id: 'FZ6VzdC8XdE' }, { id: '_WdU1EZ1-Ow' }, { id: '4frKVkccUck' }],
+  session: [{ id: '4frKVkccUck' },{ id: 'o0DG1jdetuc' },{ id: 'FZ6VzdC8XdE' }, { id: '_WdU1EZ1-Ow' },{ id: '7PH7L2KVMYo' }],
   bass:   [{ id: 'YDobOtnFm9w' }, { id: 'KH9uW8Y6cdk' }],
-  guitar: [{ id: 'i8FgazNW-mI' }, {id: 'ii3dqZtnFmA'},{id: 'TtpqHI9vKxo'},{ id: 'TSkr-sDEpxk' }],
+  guitar: [{ id: 'i8FgazNW-mI' }, {id: 'ii3dqZtnFmA'},{id: 'TtpqHI9vKxo'},{ id: 'TSkr-sDEpxk' },{ id: 'IODOZYCPOT4' }],
 };
 
 function renderThumbs(cat, activeIdx = 0) {
