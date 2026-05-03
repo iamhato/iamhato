@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Haisai World.</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Noto+Sans+JP:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --bg: #ffffff;
+  --bg2: #f8f9fa;
+  --fg: #1a1a2e;
+  --fg2: #6b7280;
+  --fg3: #9ca3af;
+  --accent: #3ea8ff;
+  --accent-bg: #e8f4ff;
+  --border: #e5e7eb;
+  --radius-sm: 8px;
+  --radius: 12px;
+  --radius-lg: 16px;
+  --sans: 'Inter', 'Noto Sans JP', sans-serif;
+  --shadow-sm: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
+  --shadow: 0 4px 16px rgba(0,0,0,0.07), 0 1px 3px rgba(0,0,0,0.04);
+  --shadow-hover: 0 8px 28px rgba(0,0,0,0.10), 0 2px 6px rgba(0,0,0,0.05);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #171923;
+    --bg2: #1e2130;
+    --fg: #e8eaf0;
+    --fg2: #9aa0b2;
+    --fg3: #6b7280;
+    --border: #2d3148;
+    --accent-bg: #1a2a3a;
+    --shadow-sm: 0 1px 3px rgba(0,0,0,0.3);
+    --shadow: 0 4px 16px rgba(0,0,0,0.3);
+    --shadow-hover: 0 8px 28px rgba(0,0,0,0.4);
+  }
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--sans);
+  font-size: 15px;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+  max-width: 770px;
+  margin: auto;
+}
+
+/* ── MARQUEE ── */
+.marquee-wrap {
+  background: var(--bg2);
+  border-bottom: 1px solid var(--border);
+  overflow: hidden;
+  padding: 0.6rem 0;
+  white-space: nowrap;
+}
+.marquee-inner {
+  display: inline-block;
+  animation: ticker 22s linear infinite;
+}
+.marquee-inner span {
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--fg3);
+  margin-right: 2.5rem;
+}
+.marquee-inner .sep { color: var(--accent); margin-right: 2.5rem; }
+@keyframes ticker {
+  from { transform: translateX(0); }
+  to   { transform: translateX(-50%); }
+}
+
+/* ── HERO ── */
+.hero {
+  padding: 5rem 1.25rem;
+  border-bottom: 1px solid var(--border);
+  max-width: 640px;
+}
+.hero-title .dot { color: var(--accent); }
+.hero-body {
+  font-size: 0.95rem;
+  color: var(--fg2);
+  line-height: 1.75;
+  max-width: 44ch;
+  margin-bottom: 2rem;
+}
+.hero-body-title {
+  font-weight: bold;
+  font-size: 20px;
+  img{
+    margin: 0 0 -3px 3px;
+  }
+}
+.hero-actions {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: #fff;
+  background: var(--accent);
+  border: none;
+  border-radius: var(--radius-sm);
+  padding: 0.6rem 1.2rem;
+  text-decoration: none;
+  cursor: pointer;
+  transition: opacity 0.15s, transform 0.15s;
+}
+.btn-primary:hover { opacity: 0.88; transform: translateY(-1px); }
+.btn-ghost {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: var(--fg2);
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 0.6rem 1.2rem;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+}
+.btn-ghost:hover { background: var(--bg2); color: var(--fg); }
+
+/* ── SECTION ── */
+section {
+  padding: 2.5rem 1.25rem;
+  border-bottom: 1px solid var(--border);
+}
+.sec-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1.25rem;
+}
+.sec-title {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--fg);
+  letter-spacing: -0.01em;
+}
+.sec-more {
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--accent);
+  text-decoration: none;
+}
+.sec-more:hover { text-decoration: underline; }
+
+/* ── PROJECT CARDS ── */
+.carousel {
+  display: flex;
+  gap: 0.875rem;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  padding-bottom: 0.5rem;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+}
+.carousel::-webkit-scrollbar { display: none; }
+
+.p-card {
+  flex: 0 0 min(75vw, 280px);
+  scroll-snap-align: start;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  text-decoration: none;
+  color: var(--fg);
+  display: block;
+  box-shadow: var(--shadow-sm);
+  transition: box-shadow 0.2s, transform 0.2s;
+}
+.p-card:hover {
+  box-shadow: var(--shadow-hover);
+  transform: translateY(-2px);
+}
+.p-img {
+  aspect-ratio: 16/9;
+  overflow: hidden;
+  background: var(--bg2);
+}
+.p-img img {
+  width: 100%; height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.35s;
+}
+.p-card:hover .p-img img { transform: scale(1.04); }
+.p-body { padding: 0.875rem 1rem 1rem; }
+.p-meta {
+  font-size: 0.7rem;
+  font-weight: 500;
+  color: var(--accent);
+  letter-spacing: 0.05em;
+  margin-bottom: 0.35rem;
+}
+.p-name {
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: var(--fg);
+  margin-bottom: 0.3rem;
+  letter-spacing: -0.01em;
+}
+.p-desc { font-size: 0.8rem; color: var(--fg2); line-height: 1.55; }
+
+.carousel-dots {
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+  margin-top: 1rem;
+}
+.cdot {
+  width: 5px; height: 5px;
+  border-radius: 50%;
+  background: var(--border);
+  cursor: pointer;
+  transition: background 0.2s, transform 0.2s, width 0.2s;
+}
+.cdot.active {
+  background: var(--accent);
+  width: 14px;
+  border-radius: 99px;
+}
+
+/* ── YOUTUBE ── */
+.yt-tabs {
+  display: flex;
+  gap: 0.375rem;
+  margin-bottom: 1.1rem;
+  flex-wrap: wrap;
+}
+.yt-tab {
+  font-size: 0.78rem;
+  font-weight: 500;
+  padding: 0.3rem 0.85rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--fg2);
+  cursor: pointer;
+  font-family: var(--sans);
+  transition: all 0.15s;
+}
+.yt-tab.active {
+  background: var(--accent-bg);
+  border-color: var(--accent);
+  color: var(--accent);
+  font-weight: 600;
+}
+.yt-tab:hover:not(.active) { background: var(--bg2); color: var(--fg); }
+
+.yt-player {
+  aspect-ratio: 16/9;
+  border-radius: var(--radius);
+  overflow: hidden;
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow);
+  margin-bottom: 0.875rem;
+  background: #000;
+}
+.yt-player iframe { width: 100%; height: 100%; border: none; display: block; }
+
+.yt-thumbs {
+  display: flex;
+  gap: 0.625rem;
+  overflow-x: auto;
+  scrollbar-width: none;
+  padding-bottom: 0.25rem;
+}
+.yt-thumbs::-webkit-scrollbar { display: none; }
+.yt-thumb {
+  flex: 0 0 min(36vw, 140px);
+  cursor: pointer;
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+  border: 1.5px solid transparent;
+  transition: border-color 0.15s, transform 0.15s;
+  box-shadow: var(--shadow-sm);
+}
+.yt-thumb.active { border-color: var(--accent); }
+.yt-thumb:hover { transform: scale(1.03); }
+.yt-thumb img { width: 100%; display: block; aspect-ratio: 16/9; object-fit: cover; }
+
+.yt-pls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-top: 1.25rem;
+}
+.yt-pl {
+  font-size: 0.75rem;
+  font-weight: 500;
+  padding: 0.32rem 0.8rem;
+  border-radius: 99px;
+  border: 1px solid var(--border);
+  background: var(--bg2);
+  color: var(--fg2);
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  transition: all 0.15s;
+}
+.yt-pl:hover { border-color: var(--accent); color: var(--accent); background: var(--accent-bg); }
+
+/* ── FOOTER ── */
+footer {
+  padding: 2rem 1.25rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+.footer-logo {
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: var(--fg);
+  letter-spacing: -0.01em;
+}
+.footer-copy { font-size: 0.75rem; color: var(--fg3); }
+</style>
+</head>
+<body>
+
+<!-- HERO -->
+<div class="hero">
+    <p class="hero-body-title">Haisai World.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="25" height="25" /></p>
+    <p>
+    It all started when I was a teenager,<br> making sites on Tumblr and designing signboards for school.<br>
+    I want to embrace making lots of mistakes on the journey to creating something great.
+    
+  </p>
+  <div class="hero-actions">
+    <a class="btn-primary" href="#projects">Projects →</a>
+    <a class="btn-ghost" href="https://github.com/iamhato" target="_blank">GitHub</a>
+  </div>
+</div>
+
+<!-- PROJECTS -->
+<section id="projects">
+  <div class="sec-header">
+    <div class="sec-title">Projects</div>
+  </div>
+  <div class="carousel" id="carousel">
+    <a class="p-card" href="https://cy-cy.jp/" target="_blank">
+      <div class="p-img"><img src="https://github.com/iamhato/iamhato/raw/main/images/coralyoshinaga.png" alt="Coral Yoshinaga" loading="lazy"></div>
+      <div class="p-body">
+        <div class="p-meta">01 — Website</div>
+        <div class="p-name">Coral Yoshinaga</div>
+        <p class="p-desc">奄美・沖縄へと向かった男たちの物語</p>
+      </div>
+    </a>
+    <a class="p-card" href="https://kamataorchestra.pepper.jp/" target="_blank">
+      <div class="p-img"><img src="https://github.com/iamhato/iamhato/raw/main/images/kamataorchestra.png" alt="Kamata Orchestra" loading="lazy"></div>
+      <div class="p-body">
+        <div class="p-meta">02 — Website</div>
+        <div class="p-name">Kamata Orchestra</div>
+        <p class="p-desc">温泉サークル作曲部による旅行記</p>
+      </div>
+    </a>
+    <a class="p-card" href="https://v-bis.pages.dev/" target="_blank">
+      <div class="p-img"><img src="https://github.com/iamhato/iamhato/raw/main/images/v-bis.png" alt="v-BiS" loading="lazy"></div>
+      <div class="p-body">
+        <div class="p-meta">03 — Vue.js</div>
+        <div class="p-name">v-BiS</div>
+        <p class="p-desc">3期BiSの記録</p>
+      </div>
+    </a>
+    <a class="p-card" href="https://socho-notebook.pages.dev/" target="_blank">
+      <div class="p-img"><img src="https://github.com/iamhato/iamhato/raw/main/images/socho-notebook.png" alt="早朝ノートブック！" loading="lazy"></div>
+      <div class="p-body">
+        <div class="p-meta">04 — Website</div>
+        <div class="p-name">早朝ノートブック！</div>
+        <p class="p-desc">青春マスロック集団の公式サイト</p>
+      </div>
+    </a>
+  </div>
+  <div class="carousel-dots" id="dots">
+    <div class="cdot active" data-i="0"></div>
+    <div class="cdot" data-i="1"></div>
+    <div class="cdot" data-i="2"></div>
+    <div class="cdot" data-i="3"></div>
+  </div>
+</section>
+
+<!-- YOUTUBE -->
+<section id="youtube">
+  <div class="sec-header">
+    <div class="sec-title">YouTube</div>
+    <a class="sec-more" href="https://www.youtube.com/@user-rt4chizy6z" target="_blank">チャンネルへ →</a>
+  </div>
+  <div class="yt-tabs">
+    <button class="yt-tab active" data-cat="vlog">🎬 Vlog</button>
+    <button class="yt-tab" data-cat="bass">🍍 Bass</button>
+    <button class="yt-tab" data-cat="guitar">🫰 Guitar</button>
+  </div>
+  <div class="yt-player">
+    <iframe id="yt-iframe"
+      src="https://www.youtube.com/embed/ii3dqZtnFmA"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen loading="lazy"></iframe>
+  </div>
+  <div class="yt-thumbs" id="yt-thumbs"></div>
+  <div class="yt-pls">
+    <a class="yt-pl" href="https://youtube.com/playlist?list=PLm8Oh22BrJEa6WvLnhdt3sZKiuDkldvUg" target="_blank">▶ Vlog</a>
+    <a class="yt-pl" href="https://youtube.com/playlist?list=PLm8Oh22BrJEbx0wb7BYu7LpoS69uKzEyf" target="_blank">▶ Bass 🍍</a>
+    <a class="yt-pl" href="https://youtube.com/playlist?list=PLm8Oh22BrJEaDOYHVkuHY8uHhPnEXHXZW" target="_blank">▶ Fingerstyle 🫰</a>
+    <a class="yt-pl" href="https://youtube.com/playlist?list=PLm8Oh22BrJEaDOYHVkuHY8uHhPnEXHXZW" target="_blank">▶ Pickstyle 🏄</a>
+    <a class="yt-pl" href="https://youtube.com/playlist?list=PLm8Oh22BrJEbehnxyiUuvn5AqRSmrlp_S" target="_blank">▶ 早朝ノートブック！🍳</a>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer>
+  <div class="footer-logo">🐱 Haisai World.</div>
+  <div class="footer-copy">© 2026 iamhato</div>
+</footer>
+
+<script>
+// Carousel
+const carousel = document.getElementById('carousel');
+const cards = document.querySelectorAll('.p-card');
+const dots = document.querySelectorAll('.cdot');
+
+dots.forEach(dot => {
+  dot.addEventListener('click', () => {
+    const i = parseInt(dot.dataset.i);
+    cards[i].scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'start' });
+  });
+});
+carousel.addEventListener('scroll', () => {
+  const cardW = cards[0].offsetWidth + 14;
+  const active = Math.round(carousel.scrollLeft / cardW);
+  dots.forEach((d, i) => d.classList.toggle('active', i === active));
+}, { passive: true });
+
+// YouTube
+const ytData = {
+  vlog:   [{ id: 'QeCzZxK--SM' }, { id: '4frKVkccUck' }, { id: 'o0DG1jdetuc' }],
+  bass:   [{ id: 'YDobOtnFm9w' }, { id: 'YDobOtnFm9w' }],
+  guitar: [{ id: 'i8FgazNW-mI' }, { id: 'TSkr-sDEpxk' }],
+};
+
+function renderThumbs(cat, activeIdx = 0) {
+  const wrap = document.getElementById('yt-thumbs');
+  wrap.innerHTML = '';
+  ytData[cat].forEach((v, i) => {
+    const div = document.createElement('div');
+    div.className = 'yt-thumb' + (i === activeIdx ? ' active' : '');
+    div.innerHTML = `<img src="https://img.youtube.com/vi/${v.id}/mqdefault.jpg" loading="lazy">`;
+    div.addEventListener('click', () => {
+      document.getElementById('yt-iframe').src = `https://www.youtube.com/embed/${v.id}?autoplay=1`;
+      document.querySelectorAll('.yt-thumb').forEach((t, j) => t.classList.toggle('active', j === i));
+    });
+    wrap.appendChild(div);
+  });
+}
+
+document.querySelectorAll('.yt-tab').forEach(tab => {
+  tab.addEventListener('click', () => {
+    document.querySelectorAll('.yt-tab').forEach(t => t.classList.remove('active'));
+    tab.classList.add('active');
+    const cat = tab.dataset.cat;
+    document.getElementById('yt-iframe').src = `https://www.youtube.com/embed/${ytData[cat][0].id}`;
+    renderThumbs(cat, 0);
+  });
+});
+
+renderThumbs('vlog', 0);
+</script>
+</body>
+</html>
