@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamhato&layout=compact&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamhato&theme=vue&hide=html,css)
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="25" height="25" />
 <strong>Haisai World.</strong><br>
