@@ -1,4 +1,4 @@
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamhato&theme=slateorange" align="right" width="40%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamhato&theme=noctis_minimus" align="right" width="40%">
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" width="25" height="25" />
 <strong>Haisai World.</strong><br>
