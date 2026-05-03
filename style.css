@@ -88,6 +88,7 @@ body {
 .hero-body-title {
   font-weight: bold;
   font-size: 20px;
+  color: var(--accent);
   img{
     margin: 0 0 -3px 3px;
   }
@@ -102,7 +103,7 @@ body {
   display: inline-flex;
   align-items: center;
   gap: 0.4rem;
-  font-size: 0.82rem;
+  font-size: 1rem;
   font-weight: 500;
   color: var(--fg2);
   background: transparent;
@@ -299,3 +300,8 @@ section {
   transition: all 0.15s;
 }
 .yt-pl:hover { border-color: var(--accent); color: var(--accent); background: var(--accent-bg); }
+footer{
+    padding: 20px;
+    text-align: center;
+    color: #314c71;
+}
