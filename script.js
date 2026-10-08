@@ -18,7 +18,7 @@ if (carousel) {
 
 // --- YouTube Logic ---
 const ytData = {
-  session: [{ id: 'gjbest4Wnnw' },{ id: 'nf3dym7KDoI' },{ id: '4frKVkccUck' },{ id: 'o0DG1jdetuc' }],
+  session: [{ id: 'gjbest4Wnnw' },{ id: '4frKVkccUck' },{ id: 'o0DG1jdetuc' }],
   bass:   [{ id: 'YDobOtnFm9w' }, { id: 'KH9uW8Y6cdk' }],
   guitar: [{ id: 'nf3dym7KDoI' },{ id: 'i8FgazNW-mI' }, {id: 'ii3dqZtnFmA'},{id: 'TtpqHI9vKxo'},{ id: 'TSkr-sDEpxk' },{ id: 'IODOZYCPOT4' }],
 };
