@@ -12,7 +12,7 @@ I want to embrace making lots of mistakes on the journey to creating something g
 
 ## Projects
 <div>
-  <a target="_blank" href="https://math.org/">
+  <a target="_blank" href="https://mathrock.org/">
     <img src="images/math.webp" height="180">
   </a>
 </div>
@@ -38,7 +38,7 @@ I want to embrace making lots of mistakes on the journey to creating something g
 </div>
 
 <br>
-<a target="_blank" href="https:mathrock.org/"><img src="images/mathrock.webp" height="50"></a><br>&nbsp;&nbsp;心を込めて制作中<br><br>
+<a target="_blank" href="https:mathrock.org/"><img src="images/math.webp" height="50"></a><br>&nbsp;&nbsp;心を込めて制作中<br><br>
 <a target="_blank" href="https://cy-cy.jp/"><img src="images/coralyoshinaga.png" height="50"></a><br>&nbsp;&nbsp;奄美・沖縄へと向かった男たちの物語<br><br>
 <a target="_blank" href="https://kamataorchestra.pepper.jp/"><img src="images/kamataorchestra.png" height="50"></a><br>&nbsp;&nbsp;温泉サークル作曲部による旅行記<br><br>
 <a target="_blank" href="https://v-bis.pages.dev/"><img src="images/v-bis.png" height="50"></a><br>&nbsp;&nbsp;3期BiSの記録<br><br>
