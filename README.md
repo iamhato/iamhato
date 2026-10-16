@@ -13,7 +13,7 @@ I want to embrace making lots of mistakes on the journey to creating something g
 ## Projects
 <div>
   <a target="_blank" href="https://mathrock.org/">
-    <img src="images/mathrock.org" height="180">
+    <img src="images/mathrock.webp" height="180">
   </a>
 </div>
 
